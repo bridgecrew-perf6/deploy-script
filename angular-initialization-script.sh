@@ -6,7 +6,10 @@
 sudo apt update -y
 
 ## Install Git
-sudo apt install git
+sudo apt install -y git
+
+## Install curl
+sudo apt install -y curl
 
 ## Install Caddy
 
